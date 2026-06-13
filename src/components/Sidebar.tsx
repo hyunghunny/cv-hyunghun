@@ -23,7 +23,7 @@ export default function Sidebar({ onSearchQueryChange, searchQuery = "" }: Sideb
     "/portrait.jpg",
     "/portrait.png",
     "/portrait.jpeg",
-    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400&h=400"
+    "https://1drv.ms/i/c/b0966660a6fc9275/IQBMeI9yb2VES7rLuyBdLwTFAftVUcVLw9Y27JvofxPFvjw?e=5nVONj"
   ];
 
   const handleImageError = () => {
